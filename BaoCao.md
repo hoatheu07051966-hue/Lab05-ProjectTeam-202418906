@@ -2,7 +2,7 @@
 
 - **Mã sinh viên:** 202418906
 - **Họ tên:** Lê Gia Huân
-- **Link GitHub (mã nguồn):** https://github.com/<tai-khoan>/LabW05a  *(điền sau khi đẩy lên)*
+- **Link GitHub (mã nguồn):** https://github.com/hoatheu07051966-hue/Lab05-ProjectTeam-202418906
 - **Ngôn ngữ / nền tảng:** C# – .NET 8 (Console App)
 
 ---
